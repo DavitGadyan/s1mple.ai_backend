@@ -25,6 +25,8 @@ google-auth-oauthlib = "*"
 asknews = "*"
 yfinance = "*"
 langgraph-prebuilt = "*"
+uvicorn = "*"
+fastapi = "^0.115.14"
 
 
 [build-system]
