@@ -1,2 +1,3 @@
-# s1mple.ai_backend
-S1mple.ai Backend with LangGraph and entriprise tools connected
+🚀 **s1mple.ai Backend ReACT Agent**
+
+SAAS Backend app as FAST API serving LLM to connect and control SAAS applications Slack, Gdrive, Gmail etc..

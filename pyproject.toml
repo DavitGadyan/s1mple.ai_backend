@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "langgraph-react"
+version = "0.1.0"
+description = ""
+authors = ["David Gadyan <davidgadyan92@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+langchain = "*"
+langgraph = "0.3.2"
+langchain-openai = "*"
+langchainhub = "*"
+black = "*"
+isort = "*"
+python-dotenv = "*"
+google-search-results = "*"
+langchain-community = "*"
+langchain-google-community = "*"
+arxiv = "*"
+langchain-apify = "*"
+google-api-python-client = "*"
+google-auth-httplib2 = "*"
+google-auth-oauthlib = "*"
+asknews = "*"
+yfinance = "*"
+langgraph-prebuilt = "*"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

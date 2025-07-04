@@ -1,0 +1,25 @@
+# OAuth & tokens
+credentials.json
+token.json
+
+# Env vars
+.env
+
+# Python
+__pycache__/
+
+
+# IDEs
+.vscode/
+.idea/
+
+# Build/dist
+build/
+dist/
+
+# Logs
+*.log
+
+*.json
+
+refresh_token.py
