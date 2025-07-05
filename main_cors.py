@@ -13,6 +13,8 @@ app.add_middleware(
         "http://localhost:3000",  # your Vite dev server
         "http://localhost:8080",  # if you use a different port
         "http://localhost:8000",  # if you use a different port
+        "https://api.s1mpleai.org",
+        "https://s1mple-ai-2025-hc4l7mer5-davitgadyans-projects.vercel.app/",
     ],
     allow_credentials=True,
     allow_methods=["*"],        # GET, POST, OPTIONS, etc.
