@@ -15,7 +15,7 @@ app.add_middleware(
         "http://localhost:8000",  # if you use a different port
         "https://api.s1mpleai.org",
         "https://s1mpleai.org",
-        "https://s1mple-ai-2025.vercel.app/",
+        "https://s1mple-ai-2025.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],        # GET, POST, OPTIONS, etc.
